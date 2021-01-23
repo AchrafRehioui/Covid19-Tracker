@@ -10,6 +10,7 @@ class App extends React.Component {
 
   state = {
     data: {},
+    country: '',
   }
 
   async componentDidMount() {
@@ -17,6 +18,8 @@ class App extends React.Component {
 
     this.setState({ data: fetchedData });
   }
+
+  
 
   render() {
 
