@@ -5,7 +5,7 @@
 ## Introduction
 This is a code repository for the corresponding project Covid19 Tracker. 
 
-This project is created using   Material UI, Charts.js, React Hooks, API data fetching.
+This project created by using   Material UI, Charts.js, React Hooks, API data fetching.
 
 The project relys on fetching  live data from the API, https://covidtracking.com/data/api
 
